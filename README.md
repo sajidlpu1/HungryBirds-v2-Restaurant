@@ -1,4 +1,4 @@
 # HungryBirds-v2-Restaurant
 Restaurant Online food ordering System
 
-Materilize and Bootstrap Used for Styling and Designing purpose along with CSS, HTML, JQuery and JavaScript 
+Materialize and Bootstrap Used for Styling and Designing purpose along with CSS, HTML, JQuery and JavaScript 
